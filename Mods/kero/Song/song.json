@@ -5152,14 +5152,4 @@
         ]
       }
     ],
-    "bpm": 225,
-    "sections": 1,
-    "needsVoices": true,
-    "player1": "bf",
-    "player2": "bambi-old",
-    "speed": 3.1,
-    "song": "Old-Blocked",
-    "sectionLengths": [],
-    "validScore": true
-  }
-}
+"generatedBy":"SNIFF ver.6"}
